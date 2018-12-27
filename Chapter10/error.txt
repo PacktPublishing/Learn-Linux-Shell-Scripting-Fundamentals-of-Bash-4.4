@@ -1,0 +1,5 @@
+Process started.
+Running normally.
+ERROR: TCP socket broken.
+ERROR: Cannot connect to database.
+Exiting process.

@@ -1,0 +1,5 @@
+We can use this regular file for testing grep.
+Regular expressions are pretty cool
+Did you ever realise that in the UK they say colour,
+but in the USA they use color (and realize)!
+Also, New Zealand is pretty far away.

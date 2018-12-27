@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+MAILTO=""
+# m h  dom mon dow   command
+* * * * * date &>> /tmp/date-file
