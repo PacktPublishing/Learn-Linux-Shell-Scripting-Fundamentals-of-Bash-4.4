@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learn Linux Shell Scripting – Fundamentals of Bash 4.4
 
 <a href="https://www.packtpub.com/networking-and-servers/learn-linux-shell-scripting-–-fundamentals-bash-44?utm_source=github&utm_medium=repository&utm_campaign=9781788995597 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10117_cover.png" alt="Learn Linux Shell Scripting – Fundamentals of Bash 4.4" height="256px" align="right"></a>
